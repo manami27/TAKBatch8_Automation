@@ -1,7 +1,11 @@
 ini adalah login
 file yang pertama
+<<<<<<< HEAD
 file update baris 3
 
 Nyobain commit/push
 
 edit dari branch maya 
+=======
+file update baris 3
+>>>>>>> parent of 008d02f (push)
