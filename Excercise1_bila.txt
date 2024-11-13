@@ -1,0 +1,1 @@
+Saya ingin mengetahui bagaimana automation bekerja, bagaimana automation dimanfaatkan dengan tepat, bagaimana mengautomation test yang efisien dan sesuai dengan kegiatan automation di-lingkungan kerja
