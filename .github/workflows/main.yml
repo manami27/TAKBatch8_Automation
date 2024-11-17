@@ -14,4 +14,4 @@ jobs:
         uses: cypress-io/github-action@v6
         with:
           browser: chrome
-          spec: cypress\e2e\3-saucedemo\*.cy.js
+          spec: cypress/e2e/3-saucedemo/*.cy.js
