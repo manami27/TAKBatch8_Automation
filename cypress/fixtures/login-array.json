@@ -1,0 +1,14 @@
+{
+  "invalidUser": [
+    {
+      "usernm": "locked_out_user",
+      "passw": "secret_sauce",
+      "error_msg": "Sorry, this user has been locked out"
+    },
+    {
+      "usernm": "standard",
+      "passw": "secret_sauce",
+      "error_msg": "Epic sadface: Username and password do not match any user in this service"
+    }
+  ]
+}

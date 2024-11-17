@@ -1,0 +1,21 @@
+{
+  "name": "tak8cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "addtocart": "npx cypress run --spec cypress/e2e/3-saucedemo/addtocart.cy.js --browser chrome",
+    "addtocart-commands": "npx cypress run --spec cypress/e2e/3-saucedemo/addtocart-command.cy.js --browser chrome",
+    "login": "npx cypress run --spec cypress/e2e/3-saucedemo/login.cy.js --browser chrome",
+    "saucedemo": "npx cypress run --spec cypress/e2e/3-saucedemo/*.cy.js --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  },
+  "dependencies": {
+    "tak8cypress": "file:"
+  }
+}
